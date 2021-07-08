@@ -1,7 +1,7 @@
 # Bomb-Sweeper
 A game based on avoiding bombs and clicking all the non-bomb boxes .Clearly not a ripped off idea from some old game
 
-### Try it out here : https://sanskarjaiswal2001.github.io/Bomb-Sweeper/
+### Try it out here : [Play Bomb Sweeper](https://sanskarjaiswal2001.github.io/Bomb-Sweeper/)
 
 ### Screenshots:
 - Inprogress Game:
